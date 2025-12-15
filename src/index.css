@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-head {
+    color: rgb(33, 4, 88);
+    margin-top: 80px;
+    margin-left: 40px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-weight: 600;
+
+}
+
+.tittle {
+    color: rgb(33, 4, 88);
+     margin-left: 40px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+
+    font-weight: 600;
+}
+
+.tittle-para {
+    margin-left: 40px;
+    padding: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.btnex {
+    
+    height: 40px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(33, 4, 88); ;
+    border-radius: 15%;
+    font-weight: 600;
+    
+
+
+}
+.btn-main{
+    display: flex;
+    
+    
+    
+}
+.phone{
+    
+    display: inline-flex;
+    margin-left: 40px;
+    padding: 23px;
+    
+}
+.us{
+    padding: 20px;
+    display: flex; 
+}
+.us span{
+    font-weight: 600;
+    padding: 10px;
+    text-decoration: none;
+}
